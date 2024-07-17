@@ -15,5 +15,9 @@
 }
 
 html {
+	align-items: center;
+	display: flex;
     font-size: 62.5%;
+	height: 100vh;
+	justify-content: center;
 }
