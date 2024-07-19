@@ -11,9 +11,9 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop-desing](./screenshots/ss_3_desktop-desing.png)
-![active-state](./screenshots/ss_1_active-state.png)
-![mobile-desing](./screenshots/ss_2_mobile-desing.png)
+![desktop-desing](screenshots/ss_3_desktop-desing.png)
+![active-state](screenshots/ss_1_active-state.png)
+![mobile-desing](screenshots/ss_2_mobile-desing.png)
 
 ### Links
 
