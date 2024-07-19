@@ -1,7 +1,5 @@
-.main__container {
-    background-color: var(--brightOrange);
+.mainContainer { 
     display: flex;
-    gap: 3rem;
     justify-content: center;
-    width: 60rem;
+    width: 90rem;
 }

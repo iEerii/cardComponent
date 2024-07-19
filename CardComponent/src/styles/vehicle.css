@@ -1,0 +1,16 @@
+.orange {
+    background-color: var(--brightOrange);
+}
+
+.cyan {
+    background-color: var(--darkCyan);
+}
+
+.darkCyan {
+    background-color: var(--veryDarkCyan);
+}
+
+.bRadiusLeft {
+    border-bottom-left-radius: 2rem;
+    border-top-left-radius: 2rem;
+}
