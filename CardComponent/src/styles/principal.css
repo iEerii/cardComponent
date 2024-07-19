@@ -1,5 +1,7 @@
 .mainContainer { 
     display: flex;
     justify-content: center;
-    width: 90rem;
+    max-width: 75rem;
+    padding: 2rem;
+    width: 100%;
 }

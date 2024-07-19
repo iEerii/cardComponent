@@ -1,9 +1,63 @@
+.autoContainer {
+    min-height: 38rem;
+    padding: 4rem;
+}
+
+.autoContainer__type-img {
+    width: 4rem;
+}
+
+.autoContainer__type h1 {
+    color: var(--veryLightGrey);
+    font-family: "Big Shoulders Display", sans-serif;
+    font-size: 3rem;
+    text-transform: uppercase;
+    padding: 2rem 0;
+}
+
+.autoContainer__type p {
+    color: var(--transparentWhite);
+    font-family: "Lexend Deca", sans-serif;
+    font-size: 1.1rem;
+    font-weight: 400;
+    line-height: 1.8rem;
+    margin-bottom: 5rem;
+}
+
+.autoContainer__button button {
+    cursor: pointer;
+    border: .2rem solid var(--veryLightGrey);
+    border-radius: 5rem;
+    font-family: "Lexend Deca", sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    margin-top: 2rem;
+    padding: 1rem 2.5rem;
+}
+
+.autoContainer__button button:hover {
+    background-color: transparent;
+    color: var(--transparentWhite);
+}
+
 .orange {
     background-color: var(--brightOrange);
 }
 
+.orangeText {
+    color: var(--brightOrange);
+}
+
 .cyan {
     background-color: var(--darkCyan);
+}
+
+.cyanText {
+    color: var(--darkCyan);
+}
+
+.darkCyanText {
+    color: var(--veryDarkCyan);
 }
 
 .darkCyan {
