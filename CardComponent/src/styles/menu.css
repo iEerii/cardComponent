@@ -1,0 +1,16 @@
+.vehicleContainer__list {
+    border-radius: 1rem;
+    display: flex;
+    overflow: hidden;
+}
+
+.vehicleContainer__list li {
+    list-style: none;
+}
+
+@media screen and (max-width: 576px) {
+
+    .vehicleContainer__list {
+        flex-direction: column;
+    }
+}
