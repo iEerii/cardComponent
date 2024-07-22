@@ -19,7 +19,7 @@ Users should be able to:
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub)
 
-- Live Site URL: [Netlify](https://3_columns_react.netlify.app/)
+- Live Site URL: [Vercel](https://3-columns-react.vercel.app/ )
 
 ## My process
 
